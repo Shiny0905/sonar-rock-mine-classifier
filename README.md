@@ -95,4 +95,4 @@ sonar-rock-mine-classifier/
 ## 👤 Author
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/shinysaka/) 
